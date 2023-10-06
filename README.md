@@ -11,7 +11,7 @@ Protect your android app from any modification or decompile with this tool
         url uri("https://maven.pkg.github.com/SajjadAkbariDev/AndroidSignCheck")
         credentials {
             username = "SajjadAkbariDev"
-            password = "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"
+            password = "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"
         }
     }
 
