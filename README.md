@@ -6,12 +6,13 @@ Protect your android app from any modification or decompile with this tool
 
 ## Documentation
  only need add this maven repository:
+- ***delete #SPACE# in password line in below code: ***
 
     maven {
         url uri("https://maven.pkg.github.com/SajjadAkbariDev/AndroidSignCheck")
         credentials {
             username = "SajjadAkbariDev"
-            password = "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"
+            password = "ghp_1RmhPU1rOaz8U1j#SPACE#uhPiAxtlXeaYbkj3MeiBm"
         }
     }
 
