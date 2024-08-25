@@ -45,4 +45,4 @@ with this code you tell if SignHashCode is different things . close app!
 
 For support, email sajjad.akbari.dev@outlook.com
 
-Telegram: https://t.me/UnlimitL
+
